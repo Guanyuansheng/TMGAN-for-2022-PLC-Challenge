@@ -8,3 +8,5 @@ allows for the high-quality recovery during longer burst losses. Experimental re
 of the proposed method in terms of speech quality, intelligibility and PLCMOS for different burst loss lengths.
 
 ![](https://github.com/Guanyuansheng/TMGAN-for-2022-PLC-Challenge/blob/main/table1.png)
+
+![](https://github.com/Guanyuansheng/TMGAN-for-2022-PLC-Challenge/blob/main/table3.png)
